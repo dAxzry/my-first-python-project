@@ -1,5 +1,5 @@
 # my-first-python-project
-this is my very first Python project! i created a simple script that handles user registration and login processes.
+this is my very first Python project! i created a simple script that performs calculations only for authorized users (Hint: try 'kali')
 
 how to run:
 
